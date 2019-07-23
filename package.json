@@ -2,7 +2,9 @@
   "name": "rgrep",
   "version": "1.0.0",
   "description": "Ronald's version of grep",
-  "bin": "rgrep.js",
+  "bin": {
+    "rgrep": "./rgrep.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
