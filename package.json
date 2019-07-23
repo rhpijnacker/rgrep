@@ -15,5 +15,8 @@
   "license": "GPL-3.0",
   "dependencies": {
     "commander": "^2.20.0"
+  },
+  "engines": {
+    "node": ">=6"
   }
 }
